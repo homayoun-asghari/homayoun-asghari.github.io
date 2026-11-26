@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <style>
+    rect { fill: #131413; }
+    @media (prefers-color-scheme: dark) { rect { fill: #DCDDD7; } }
+  </style>
+  <!-- Building blocks forming an H in negative space.
+       Proportions taken verbatim from personal 3 / Logo.tsx -->
+  <g transform="translate(5.9 40)">
+    <rect x="0"       y="0"      width="28.128" height="100" />
+    <rect x="57.760"  y="0"      width="47.038" height="29.068" />
+    <rect x="57.760"  y="52.964" width="47.038" height="47.036" />
+    <rect x="123.190" y="0"      width="44.964" height="100" />
+  </g>
+</svg>
